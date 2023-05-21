@@ -1,12 +1,11 @@
 # Cizgi-film
 **Html5-Css3-Javascript Kullanarak çizgi film sitesi oluşturdum.**
----
----
+***
 
 https://github.com/melikebasturk/cizgi-film/assets/81379373/6c4db5c3-b2d1-4745-8c51-40d12fdb0f7c
 
----
----
+
+***
 ## Karanlık mod 
 
 ![Ekran Görüntüsü (1117)](https://user-images.githubusercontent.com/81379373/234928066-09ef0865-1e36-4a56-8970-561539e97bd3.png)
